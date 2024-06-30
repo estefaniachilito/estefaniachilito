@@ -18,7 +18,7 @@
 
 <ul>
   <li>
-    <a hrfe="https://github.com/estefaniachilito/mascotas">CRUD de mascotas con NodeJS - EXPRESS - MYSQL2 | REACT - AXIOS</a>
+    <a href="https://github.com/estefaniachilito/mascotas">CRUD de mascotas con NodeJS - EXPRESS - MYSQL2 | REACT - AXIOS</a>
   </li>
 </ul>
 
